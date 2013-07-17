@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1374030233 source:f:\oop\kmeans\main.cpp
+	<cv.h>
+	<highgui.h>
+	<iostream>
+
